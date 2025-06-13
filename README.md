@@ -1,3 +1,17 @@
+word转pdf最好用的一集!
+
+- 如何安装?
+直接在Ubuntu上执行:
+```bash
+sudo apt-get update
+sudo apt-get install libreoffice
+```
+- 如何使用?
+```
+libreoffice --headless --convert-to pdf *.doc
+```
+
+
 # LibreOffice
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/211/badge.svg)](https://scan.coverity.com/projects/211) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/307/badge)](https://bestpractices.coreinfrastructure.org/projects/307) [![Translation status](https://weblate.documentfoundation.org/widgets/libo_ui-master/-/svg-badge.svg)](https://weblate.documentfoundation.org/engage/libo_ui-master/?utm_source=widget)
 
