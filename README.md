@@ -1,4 +1,4 @@
-word转pdf最好用的一集!
+在linux系统上,word转pdf最好用的一集!
 
 - 如何安装?
 直接在Ubuntu上执行:
@@ -10,6 +10,7 @@ sudo apt-get install libreoffice
 ```
 libreoffice --headless --convert-to pdf *.doc
 ```
+(当前,不管是doc还是docx,都可以完美转化为pdf)
 
 
 # LibreOffice
