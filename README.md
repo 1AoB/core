@@ -19,6 +19,7 @@ libreoffice --headless --convert-to pdf *.doc
 https://packages.ubuntu.com/
 
 - 如何使用安装包进安装?
+
 https://www.libreoffice.org/download/download-libreoffice/?type=deb-x86_64&version=25.2.4&lang=zh-CN
 
 ![image](https://github.com/user-attachments/assets/dad6ada0-2c4c-428b-91b5-2a422488b0eb)
