@@ -12,6 +12,15 @@ libreoffice --headless --convert-to pdf *.doc
 ```
 (当前,不管是doc还是docx,都可以完美转化为pdf)
 
+- 补充: 如何查看该软件能否直接使用apt-get进行安装?
+
+可以使用如下网站:
+
+https://packages.ubuntu.com/
+
+![image](https://github.com/user-attachments/assets/dad6ada0-2c4c-428b-91b5-2a422488b0eb)
+![image](https://github.com/user-attachments/assets/1c4dd697-75f8-44d8-be8f-c1c8ba07a278)
+
 
 # LibreOffice
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/211/badge.svg)](https://scan.coverity.com/projects/211) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/307/badge)](https://bestpractices.coreinfrastructure.org/projects/307) [![Translation status](https://weblate.documentfoundation.org/widgets/libo_ui-master/-/svg-badge.svg)](https://weblate.documentfoundation.org/engage/libo_ui-master/?utm_source=widget)
